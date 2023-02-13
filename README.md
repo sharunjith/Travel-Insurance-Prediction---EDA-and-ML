@@ -1,2 +1,2 @@
-# Travel-Insurance-Prediction---EDA-and-ML
+# Travel-Insurance-Prediction-EDA-and-ML
 Project
